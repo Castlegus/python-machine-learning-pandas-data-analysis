@@ -1,2 +1,5 @@
-# python-machine-learning-pandas-data-analysis
-'파이썬 머신러닝 판다스 데이터 분석' 책
+# 파이썬 머신러닝 판다스 데이터 분석
+빅데이터 대학생 연합 동아리에서 공부한 것을 바탕으로 작성
+
+## 교재
+![파이썬 머신러닝 판다스 데이터 분석](https://user-images.githubusercontent.com/69614150/90735890-8b07a900-e308-11ea-8d67-8071e5d459fc.jpeg)
