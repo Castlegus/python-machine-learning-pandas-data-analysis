@@ -6,5 +6,5 @@
 ## 교재
 ![파이썬 머신러닝 판다스 데이터 분석](https://user-images.githubusercontent.com/69614150/90735890-8b07a900-e308-11ea-8d67-8071e5d459fc.jpeg)
 
-# 순서
+## 순서
 - 1주차_반복문, 조건문, 함수, 정규식, numpy
