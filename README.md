@@ -7,6 +7,8 @@
 
 복습문제는 문제를 풀어 제출하면 해설 강의(정답)과 함께 개인적인 피드백을 받습니다.
 
+[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 (제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
+
 
 ## 교재
 ![파이썬 머신러닝 판다스 데이터 분석](https://user-images.githubusercontent.com/69614150/90735890-8b07a900-e308-11ea-8d67-8071e5d459fc.jpeg)
